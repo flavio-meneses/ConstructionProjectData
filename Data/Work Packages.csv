@@ -1,0 +1,34 @@
+Control Account ID,Work Package ID,Work Package Name
+1,1.1,Develop project plan
+1,1.2,Define project objectives and scope
+1,1.3,Define project budget and schedule
+1,1.4,Develop communication plan
+1,1.5,Establish project team and assign roles and responsibilities
+1,1.6,Monitor and control project progress
+2,2.1,Site survey and assessment
+2,2.2,Geotechnical investigations
+2,2.3,Environmental impact assessment
+2,2.4,Utility survey and relocation
+2,2.5,Permits and approvals
+3,3.1,Clearing and grubbing
+3,3.2,Excavation and embankment construction
+3,3.3,Subgrade preparation and stabilization
+4,4.1,Foundation preparation and construction
+4,4.2,Bridge superstructure construction
+4,4.3,Approach slab and barrier construction
+4,4.4,Waterproofing and protection
+5,5.1,Tunnel excavation
+5,5.2,Tunnel lining construction
+5,5.3,Ventilation and lighting installation
+5,5.4,Waterproofing and drainage
+6,6.1,Subgrade preparation and stabilization
+6,6.2,Embankment construction and retaining wall construction
+6,6.3,Roadway construction
+7,7.1,Base course and subbase construction
+7,7.2,Binder course and wearing course construction
+7,7.3,Pavement markings and signage installation
+8,8.1,Stormwater drainage system construction
+8,8.2,Utility relocation and construction
+9,9.1,Topsoil placement and grading
+9,9.2,Tree and shrub planting
+9,9.3,Final site cleanup and restoration
